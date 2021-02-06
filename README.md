@@ -4,7 +4,7 @@ pkg install upgrade
 
 pkg install git
  
-git clone (DRKFB)  :)
+git clone https://github.com/DARKNESS-YTB/DRKFB
 
 cd DRKFB
 
